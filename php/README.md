@@ -5,7 +5,7 @@
 * Configure git.exe into Environment Variables
 
 ## Install php
-* Decompress php-5.5.38-Win32-VC11-x86.zip
+* Decompress php-7.0.10-Win32-VC14-x64.zip
 * Configure php.exe into Environment Variables
 * Configure php.ini, create php.ini at C:/Windows, setup openssl extension.
 
