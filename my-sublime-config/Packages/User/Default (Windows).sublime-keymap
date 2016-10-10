@@ -1,0 +1,7 @@
+[
+	{ "keys": ["ctrl+left"], "command": "next_view_in_stack" },
+	{ "keys": ["ctrl+right"], "command": "prev_view_in_stack" },
+
+	{ "keys": ["ctrl+shift+m"], "command": "markdown_preview", "args": {"target": "browser", "parser":"markdown"} },
+	{ "keys": ["ctrl+shift+alt+m"], "command": "markdown_preview_select", "args": {"target": "browser"} }
+]

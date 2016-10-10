@@ -1,0 +1,2595 @@
+{
+	"folder_history":
+	[
+		"/D/lujian/Documents/Lu-Kye.github.io/blogs",
+		"/D/lujian/Documents/Lu-Kye.github.io",
+		"/D/lujian/Documents/environments-setup",
+		"/D/lujian/Documents/java-workspace/gs-gradle/complete",
+		"/E/SDMOBARefactor/Assets",
+		"/E/SDMOBARefactor/ClientSolution",
+		"/E/SDMOBARefactor",
+		"/D/lujian/Documents/java-workspace",
+		"/D/lujian/Documents/php-workspace",
+		"/D/lujian/Documents/java-workspace/gs-serving-web-content",
+		"/D/lujian/Documents/java-workspace/thirdparties/spring4-mvc-gradle-xml-hello-world",
+		"/D/lujian/Documents/java-workspace/sql-lab",
+		"/D/lujian/Applications/Tomcat/webapps/examples",
+		"/D/lujian/Documents/java-workspace/thirdparties",
+		"/E/SDMOBA/Assets",
+		"/D/lujian/Applications/Unity/Editor/Data/CGIncludes",
+		"/E/SDMOBARefactor/Assets/Shaders",
+		"/D/lujian/Documents/cpp-workspace",
+		"/D/lujian/Documents/php-workspace/thirdparty/swift-algorithm-club",
+		"/D/lujian/Documents/cpp-workspace/docgen",
+		"/C/Users/lujian"
+	],
+	"last_version": 3126,
+	"last_window_id": 50,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 480.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"Compa",
+						"CompareType"
+					],
+					[
+						"c",
+						"compareType"
+					],
+					[
+						"Com",
+						"CompareType"
+					],
+					[
+						"Black",
+						"BlackboardType"
+					],
+					[
+						"Dr",
+						"DrawDictionary"
+					],
+					[
+						"Draw",
+						"DrawDictionaryElement"
+					],
+					[
+						"ta",
+						"targetCamera"
+					],
+					[
+						"targ",
+						"targetTexture"
+					],
+					[
+						"tar",
+						"targetTexture"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							""
+						],
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							"Run"
+						]
+					],
+					[
+						"Packages/C++/C++ Single File.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							""
+						],
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							"Run"
+						],
+						[
+							"Packages/Makefile/Make.sublime-build",
+							""
+						],
+						[
+							"Packages/Makefile/Make.sublime-build",
+							"Clean"
+						]
+					],
+					[
+						"Packages/C++/C++ Single File.sublime-build",
+						"Run"
+					]
+				],
+				[
+					[
+						[
+							"Packages/Makefile/Make.sublime-build",
+							""
+						],
+						[
+							"Packages/Makefile/Make.sublime-build",
+							"Clean"
+						]
+					],
+					[
+						"Packages/Makefile/Make.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/User/CPP.sublime-build",
+							""
+						],
+						[
+							"Packages/User/CPP.sublime-build",
+							"Run"
+						]
+					],
+					[
+						"Packages/User/CPP.sublime-build",
+						""
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 392.0,
+				"last_filter": ":w",
+				"selected_items":
+				[
+					[
+						":w",
+						":w - Save"
+					],
+					[
+						":e",
+						":e - Revert"
+					],
+					[
+						"mark",
+						"Markdown Preview: Export HTML in Sublime Text"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: ins",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: Ins",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 416.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/D/lujian/Documents/java-workspace/thirdparties/gradle/subprojects/dependency-management/src/test/groovy/org/gradle/api/internal/artifacts/ivyservice/ErrorHandlingConfigurationResolverTest.groovy",
+				"/D/lujian/Documents/java-workspace/thirdparties/tomcat/java/org/apache/coyote/http2/Stream.java",
+				"/D/lujian/Documents/java-workspace/thirdparties/gradle/subprojects/core/src/main/java/org/gradle/api/tasks/Optional.java",
+				"/D/lujian/Documents/java-workspace/thirdparties/spring-framework/src/test/java/com/foo/ComponentBeanDefinitionParserTests.java",
+				"/D/lujian/Documents/java-workspace/java-lab/web/build.gradle",
+				"/D/lujian/Documents/java-workspace/java-lab/web/src/main/resources/application.properties",
+				"/D/lujian/Documents/java-workspace/thirdparties/spring-boot/spring-boot-samples/spring-boot-sample-web-ui/src/main/java/sample/web/ui/SampleWebUiApplication.java",
+				"/D/lujian/Documents/java-workspace/thirdparties/spring-boot/spring-boot-samples/spring-boot-sample-web-jsp/pom.xml",
+				"/D/lujian/Documents/java-workspace/thirdparties/spring-boot/spring-boot-samples/spring-boot-sample-tomcat-jsp/pom.xml",
+				"/E/SDMOBARefactor/ClientSolution/Lockstep/Code/BehaviorTree/Action/Blackboard/SetUIntValue.cs",
+				"/E/SDMOBARefactor/ClientSolution/Lockstep/Code/BehaviorTree/Action/Blackboard/BlackboardAction.cs",
+				"/E/SDMOBARefactor/ClientSolution/Lockstep/Code/BehaviorTree/BehaviorTree.cs",
+				"/E/SDMOBARefactor/ClientSolution/LitJson/LitJson/JsonMapper.cs",
+				"/E/SDMOBARefactor/ClientSolution/Lockstep/Code/BehaviorTree/Action/Blackboard/CompareUIntValue.cs",
+				"/E/SDMOBARefactor/ClientSolution/Lockstep/Code/BehaviorTree/Action/Blackboard/CompareValue.cs",
+				"/E/SDMOBARefactor/ClientSolution/Lockstep/Code/Entity/Role.cs",
+				"/E/SDMOBARefactor/ClientSolution/Lockstep/Code/Entity/Entity.cs",
+				"/E/SDMOBARefactor/ClientSolution/Lockstep/Code/BehaviorTree/Decorator/ChildAgent.cs",
+				"/E/SDMOBARefactor/ClientSolution/Lockstep/Code/StateMachine/State/BehaviorTreeState.cs",
+				"/E/SDMOBARefactor/ClientSolution/Lockstep/Code/BehaviorTree/Node.cs",
+				"/E/SDMOBARefactor/ClientSolution/Lockstep/Code/StateMachine/AIStateMachine.cs",
+				"/E/SDMOBARefactor/ClientSolution/Lockstep/Code/BehaviorTree/Decorator/Repeater.cs",
+				"/E/SDMOBARefactor/ClientSolution/Lockstep/Code/BehaviorTree/Action/Blackboard/SetValue.cs",
+				"/E/SDMOBARefactor/ClientSolution/Lockstep/Code/BehaviorTree/Composite/Sequence.cs",
+				"/E/SDMOBARefactor/ClientSolution/Lockstep/Code/BehaviorTree/Decorator/RepeatAgent.cs",
+				"/E/SDMOBARefactor/ClientSolution/Lockstep/Code/BehaviorTree/Composite/Selector.cs",
+				"/E/SDMOBARefactor/ClientSolution/Lockstep/Code/BehaviorTree/Blackboard.cs",
+				"/E/SDMOBARefactor/ClientSolution/Lockstep/Code/BehaviorTree/Decorator/Entry.cs",
+				"/E/SDMOBARefactor/ClientSolution/Lockstep/Code/BehaviorTree/Action/Skill/FrameAction/SummonFrames.cs",
+				"/E/SDMOBARefactor/ClientSolution/Lockstep/Code/BehaviorTree/Action/Skill/FrameAction/FramesAction.cs",
+				"/E/SDMOBARefactor/ClientSolution/Lockstep/Code/BehaviorTree/Action/Skill/FrameAction/FrameAction.cs",
+				"/E/SDMOBARefactor/ClientSolution/Lockstep/Code/BehaviorTree/Action/Skill/FrameAction/CatchFrame.cs",
+				"/E/SDMOBARefactor/ClientSolution/Lockstep/Code/BehaviorTree/Action/Skill/FrameAction/CameraShakeFrames.cs",
+				"/E/SDMOBARefactor/ClientSolution/Lockstep/Code/BehaviorTree/Action/Skill/FrameAction/AttackFrames.cs",
+				"/E/SDMOBARefactor/ClientSolution/Lockstep/Code/BehaviorTree/Action/Blackboard/SetIntValue.cs",
+				"/E/SDMOBARefactor/ClientSolution/Lockstep/Code/BehaviorTree/Action/Blackboard/CompareIntValue.cs",
+				"/E/SDMOBARefactor/ClientSolution/Lockstep/Code/BehaviorTree/Action/Blackboard/EqualBoolValue.cs",
+				"/E/SDMOBARefactor/ClientSolution/Lockstep/Code/BehaviorTree/Action/Blackboard/SetBoolValue.cs",
+				"/E/SDMOBARefactor/Assets/Editor/BehaviorTreeEditor/BehaviorTreeEditorFieldArea.cs",
+				"/E/SDMOBARefactor/Assets/Editor/BehaviorTreeEditor/BehaviorTreeEditorDictFieldArea.cs",
+				"/E/SDMOBARefactor/ClientSolution/Lockstep/Code/BehaviorTree/Action.cs",
+				"/E/SDMOBARefactor/Assets/Editor/BehaviorTreeEditor/BehaviorTreeEditorBlackboardArea.cs",
+				"/E/SDMOBARefactor/Assets/Editor/BehaviorTreeEditor/BehaviorTreeEditor.cs",
+				"/E/SDMOBARefactor/Assets/Editor/BehaviorTreeEditor/BehaviorTreeEditorCommandManager.cs",
+				"/E/SDMOBARefactor/Assets/Editor/BehaviorTreeEditor/BehaviorTreeEditorTreeViewTopbar.cs",
+				"/E/SDMOBARefactor/Assets/Editor/BoundsFieldDrawer.cs",
+				"/C/Users/lujian/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+				"/C/Users/lujian/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+				"/E/SDMOBARefactor/Assets/Editor/BehaviorTreeEditor/BehaviorTreeEditorTreeView.cs",
+				"/E/SDMOBARefactor/Assets/Editor/BehaviorTreeEditor/BehaviorTreeEditorMenu.cs",
+				"/E/behaviac/example/spaceship/data/bt/behaviors/ships/3_basic_move.xml",
+				"/D/lujian/Documents/java-workspace/thirdparties/LeyeOA/WebContent/WEB-INF/web.xml",
+				"/D/lujian/Documents/java-workspace/sql-lab/src/src/main/resources/application.properties",
+				"/D/lujian/Documents/java-workspace/gs-gradle/initial/build.gradle",
+				"/D/lujian/Documents/java-workspace/thirdparties/gradle/build.gradle",
+				"/D/lujian/Documents/java-workspace/thirdparties/gradle/subprojects/ide/src/main/groovy/org/gradle/plugins/ide/idea/model/ModuleLibrary.java",
+				"/D/lujian/Documents/java-workspace/thirdparties/gradle/README.md",
+				"/C/Users/lujian/AppData/Roaming/Sublime Text 3/Installed Packages/Markdown Preview.sublime-package",
+				"/C/Users/lujian/AppData/Roaming/Sublime Text 3/Packages/Markdown Preview/MarkdownPreview.sublime-settings",
+				"/C/Users/lujian/AppData/Roaming/Sublime Text 3/Packages/User/MarkdownPreview.sublime-settings",
+				"/D/lujian/Documents/java-workspace/thirdparties/gradle/buildSrc/src/main/groovy/org/gradle/build/docs/dsl/docbook/ClassDocExtensionsBuilder.java",
+				"/D/lujian/Documents/java-workspace/thirdparties/struts-examples/annotations/src/main/java/example/actions/HelloAction.java",
+				"/D/lujian/Documents/java-workspace/thirdparties/spring-mvc-showcase/src/main/webapp/WEB-INF/spring/appServlet/controllers.xml",
+				"/D/lujian/Documents/php-workspace/thirdparty/thinkmobile/server/ThinkPHP/Library/Think/Model.class.php",
+				"/D/lujian/Documents/php-workspace/thirdparty/thinkmobile/server/ThinkPHP/Library/Think/Think.class.php",
+				"/D/lujian/Documents/php-workspace/thirdparty/thinkshop/Application/Common/Model/CommonModel.class.php",
+				"/D/lujian/Documents/php-workspace/thirdparty/thinkshop/ThinkPHP/Library/Think/Model.class.php",
+				"/D/lujian/Documents/php-workspace/thirdparty/thinkshop/Application/Admin/Controller/GoodsController.class.php",
+				"/D/lujian/Documents/php-workspace/thirdparty/thinkshop/Application/index.html",
+				"/D/lujian/Documents/php-workspace/thirdparty/thinkshop/Application/Admin/index.html",
+				"/D/lujian/Documents/php-workspace/thirdparty/thinkshop/Application/Admin/View/index.html",
+				"/D/lujian/Documents/php-workspace/thirdparty/thinkshop/Application/Admin/View/UserGroup/add_edit.html",
+				"/D/lujian/Documents/php-workspace/sql-learning/vendor/autoload.php",
+				"/D/lujian/Documents/php-workspace/thirdparty/Fixhub/vendor/composer/autoload_real.php",
+				"/D/lujian/Documents/php-workspace/thirdparty/Fixhub/README.md",
+				"/D/lujian/Documents/php-workspace/thirdparty/sqli-labs/sql-connections/db-creds.inc",
+				"/D/lujian/Documents/php-workspace/sql-learning/composer.json",
+				"/D/lujian/Documents/php-workspace/thirdparty/Fixhub/bootstrap/autoload.php",
+				"/D/lujian/Documents/php-workspace/thirdparty/Fixhub/vendor/composer/autoload_psr4.php",
+				"/D/lujian/Documents/php-workspace/thirdparty/Fixhub/vendor/composer/installed.json",
+				"/D/lujian/Documents/php-workspace/thirdparty/Fixhub/vendor/composer/include_paths.php",
+				"/D/lujian/Documents/php-workspace/thirdparty/Fixhub/vendor/composer/autoload_files.php",
+				"/D/lujian/Documents/php-workspace/thirdparty/Fixhub/vendor/symfony/polyfill-mbstring/bootstrap.php",
+				"/D/lujian/Applications/php-5.5.38-Win32-VC11-x86/php.ini-development",
+				"/E/SDMOBARefactor/Assets/Shaders/xf_heat_distortion.shader",
+				"/E/SDMOBARefactor/Assets/Shaders/Terrain3Layer.shader",
+				"/E/SDMOBARefactor/Assets/Shaders/RimLight.shader",
+				"/D/lujian/Documents/php-workspace/php-webim/README.md",
+				"/C/Users/lujian/AppData/Roaming/Sublime Text 3/Packages/MarkdownEditing/Bold and Italic Markers.tmPreferences",
+				"/C/Users/lujian/AppData/Roaming/Sublime Text 3/Packages/MarkdownEditing/Markdown.sublime-settings",
+				"/C/Users/lujian/AppData/Roaming/Sublime Text 3/Packages/Terminal/Terminal.sublime-settings",
+				"/D/lujian/Documents/cpp-workspace/thirdparty/tfs/src/common/base_main.cpp",
+				"/D/lujian/Documents/cpp-workspace/docgen/main.cpp",
+				"/D/lujian/Documents/cpp-workspace/thirdparty/tfs/src/common/cdefine.h",
+				"/D/lujian/Documents/cpp-workspace/test.lua",
+				"/D/lujian/Documents/cpp-workspace/thirdparty/tfs/src/dataserver/bit_map.cpp",
+				"/D/lujian/Documents/cpp-workspace/thirdparty/tfs/src/common/meta_server_define.cpp",
+				"/C/Users/lujian/AppData/Roaming/Sublime Text 3/Packages/CTags/Default.sublime-keymap",
+				"/D/lujian/Documents/cpp-workspace/thirdparty/tfs/src/common/base_main.h",
+				"/D/lujian/Documents/cpp-workspace/docgen/file_system/file.h",
+				"/C/Users/lujian/AppData/Roaming/Sublime Text 3/Packages/CTags/CTags.sublime-settings",
+				"/D/lujian/Documents/Lu-Kye.github.io/blogs/windows/problems.md",
+				"/C/Users/lujian/AppData/Roaming/Sublime Text 3/Packages/User/CPP.sublime-build",
+				"/D/lujian/Applications/php-5.6.25/INSTALL",
+				"/D/lujian/Applications/php-5.6.25/README.md",
+				"/C/Users/lujian/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+				"/C/Users/lujian/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings"
+			],
+			"find":
+			{
+				"height": 26.0
+			},
+			"find_in_files":
+			{
+				"height": 93.0,
+				"where_history":
+				[
+					"D:\\lujian\\Documents\\java-workspace\\thirdparties\\java-design-patterns\\abstract-document\\src\\test\\java\\com\\iluwatar\\abstractdocument",
+					"D:\\lujian\\Documents\\java-workspace\\thirdparties\\spring-framework",
+					"E:\\SDMOBARefactor\\ClientSolution\\Lockstep\\Code\\BehaviorTree",
+					"E:\\SDMOBARefactor\\ClientSolution\\Lockstep\\Code",
+					"E:\\SDMOBARefactor\\ClientSolution\\Lockstep",
+					"E:\\SDMOBARefactor\\Assets\\Scripts",
+					"E:\\SDMOBARefactor\\ClientSolution\\Lockstep\\Code\\Entity",
+					"E:\\SDMOBARefactor\\Assets\\Editor\\BehaviorTreeEditor",
+					"D:\\lujian\\Documents\\java-workspace\\thirdparties\\spring-mvc-showcase",
+					"D:\\lujian\\Documents\\java-workspace\\thirdparties\\spring-mvc-showcase\\src",
+					"D:\\lujian\\Documents\\java-workspace\\thirdparties\\tomcat\\java\\org\\apache\\tomcat",
+					"D:\\lujian\\Documents\\java-workspace\\thirdparties\\tomcat\\java\\org\\apache",
+					"D:\\lujian\\Documents\\java-workspace\\thirdparties\\gradle\\buildSrc\\src\\main",
+					"D:\\lujian\\Documents\\java-workspace\\thirdparties\\spring-mvc-showcase",
+					"D:\\lujian\\Documents\\php-workspace\\thirdparty\\Fixhub\\resources",
+					"D:\\lujian\\Documents\\php-workspace\\thirdparty\\Fixhub\\resources\\assets\\sass\\components",
+					"D:\\lujian\\Documents\\cpp-workspace\\thirdparty\\tfs"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"children",
+					"getComponents()",
+					"Component",
+					"Blackboard",
+					"revaluate",
+					"Target",
+					"_target",
+					"onTakeDamage",
+					"WriteValue",
+					"commandManager",
+					"TreeViewCommandManager",
+					"tab",
+					"Save",
+					"install",
+					"JSP-Serv",
+					"log",
+					"log4j",
+					"main(",
+					"main",
+					"APP_HOME",
+					"idea",
+					"markdown",
+					"apply plugin",
+					"plugin",
+					"samples",
+					"hideMode",
+					"loadClass",
+					"includeFile",
+					"include",
+					"require",
+					"col-md-8",
+					"EXIT_SUCCESS",
+					"UNAME_S"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 26.0
+			},
+			"input":
+			{
+				"height": 35.0
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 124.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "Packages/User/CPP.sublime-build",
+			"replace":
+			{
+				"height": 48.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"aistate",
+						"ClientSolution\\Lockstep\\Code\\StateMachine\\AIStateMachine.cs"
+					],
+					[
+						"entry",
+						"ClientSolution\\Lockstep\\Code\\BehaviorTree\\Decorator\\Entry.cs"
+					],
+					[
+						"behaviortree",
+						"ClientSolution\\Lockstep\\Code\\BehaviorTree\\BehaviorTree.cs"
+					],
+					[
+						"betree",
+						"ClientSolution\\Lockstep\\Code\\BehaviorTree\\BehaviorTree.cs"
+					],
+					[
+						"blackbo",
+						"ClientSolution\\Lockstep\\Code\\BehaviorTree\\Blackboard.cs"
+					],
+					[
+						"beblack",
+						"Assets\\Editor\\BehaviorTreeEditor\\BehaviorTreeEditorBlackboardArea.cs"
+					],
+					[
+						"",
+						"Assets\\Editor\\BehaviorTreeEditor\\BehaviorTreeEditorFieldArea.cs"
+					],
+					[
+						"blackboard",
+						"Assets\\Editor\\BehaviorTreeEditor\\BehaviorTreeEditorBlackboardArea.cs"
+					],
+					[
+						"numguess",
+						"tomcat\\webapps\\examples\\jsp\\num\\numguess.jsp"
+					],
+					[
+						"modulelibrary",
+						"gradle\\subprojects\\ide\\src\\main\\groovy\\org\\gradle\\plugins\\ide\\idea\\model\\ModuleLibrary.java"
+					],
+					[
+						"colli",
+						"Scripts\\XPhysics\\BoundsCollider.cs"
+					],
+					[
+						"grayscalee",
+						"ThirdParts\\Standard Assets\\Effects\\ImageEffects\\Shaders\\GrayscaleEffect.shader"
+					],
+					[
+						"gray",
+						"ThirdParts\\Standard Assets\\Effects\\ImageEffects\\Scripts\\Grayscale.cs"
+					],
+					[
+						"greyscale",
+						"ThirdParts\\Standard Assets\\Effects\\ImageEffects\\Scripts\\Grayscale.cs"
+					],
+					[
+						"imageeffectbase",
+						"ThirdParts\\Standard Assets\\Effects\\ImageEffects\\Scripts\\ImageEffectBase.cs"
+					],
+					[
+						"graysc",
+						"ThirdParts\\Standard Assets\\Effects\\ImageEffects\\Scripts\\Grayscale.cs"
+					],
+					[
+						"runesp",
+						"Scripts\\Lockstep\\RuneSpawner.cs"
+					],
+					[
+						"runecon",
+						"Scripts\\Controller\\RuneController.cs"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 459.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 640.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"Compa",
+						"CompareType"
+					],
+					[
+						"c",
+						"compareType"
+					],
+					[
+						"Com",
+						"CompareType"
+					],
+					[
+						"Black",
+						"BlackboardType"
+					],
+					[
+						"Dr",
+						"DrawDictionary"
+					],
+					[
+						"Draw",
+						"DrawDictionaryElement"
+					],
+					[
+						"ta",
+						"targetCamera"
+					],
+					[
+						"targ",
+						"targetTexture"
+					],
+					[
+						"tar",
+						"targetTexture"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/D/lujian/Documents/java-workspace/thirdparties/java-design-patterns/abstract-document/src/main/java/com/iluwatar/abstractdocument/Document.java",
+					"settings":
+					{
+						"buffer_size": 1905,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"contents": "Searching 3 files for \"children\"\n\nD:\\lujian\\Documents\\java-workspace\\thirdparties\\java-design-patterns\\abstract-document\\src\\test\\java\\com\\iluwatar\\abstractdocument\\AbstractDocumentTest.java:\n   58  \n   59    @Test\n   60:   public void shouldRetrieveChildren() {\n   61      Map<String, Object> child1 = new HashMap<>();\n   62      Map<String, Object> child2 = new HashMap<>();\n   63:     List<Map<String, Object>> children = Arrays.asList(child1, child2);\n   64  \n   65:     document.put(KEY, children);\n   66  \n   67:     Stream<DocumentImplementation> childrenStream = document.children(KEY, DocumentImplementation::new);\n   68:     assertNotNull(children);\n   69:     assertEquals(2, childrenStream.count());\n   70    }\n   71  \n   72    @Test\n   73:   public void shouldRetrieveEmptyStreamForNonExistingChildren() {\n   74:     Stream<DocumentImplementation> children = document.children(KEY, DocumentImplementation::new);\n   75:     assertNotNull(children);\n   76:     assertEquals(0, children.count());\n   77    }\n   78  \n\n12 matches in 1 file\n",
+					"settings":
+					{
+						"buffer_size": 1048,
+						"line_ending": "Windows",
+						"name": "Find Results",
+						"scratch": true
+					}
+				},
+				{
+					"contents": "/**\n * The MIT License\n * Copyright (c) 2014 Ilkka Seppälä\n * <p>\n * Permission is hereby granted, free of charge, to any person obtaining a copy\n * of this software and associated documentation files (the \"Software\"), to deal\n * in the Software without restriction, including without limitation the rights\n * to use, copy, modify, merge, publish, distribute, sublicense, and/or sell\n * copies of the Software, and to permit persons to whom the Software is\n * furnished to do so, subject to the following conditions:\n * <p>\n * The above copyright notice and this permission notice shall be included in\n * all copies or substantial portions of the Software.\n * <p>\n * THE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\n * IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\n * FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\n * AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\n * LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\n * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN\n * THE SOFTWARE.\n */\npackage com.iluwatar.abstractdocument;\n\nimport org.junit.Test;\n\nimport java.util.Arrays;\nimport java.util.HashMap;\nimport java.util.List;\nimport java.util.Map;\nimport java.util.stream.Stream;\n\nimport static junit.framework.TestCase.assertEquals;\nimport static junit.framework.TestCase.assertNotNull;\n\n/**\n * AbstractDocument test class\n */\npublic class AbstractDocumentTest {\n\n  private static final String KEY = \"key\";\n  private static final String VALUE = \"value\";\n\n  private class DocumentImplementation extends AbstractDocument {\n\n    DocumentImplementation(Map<String, Object> properties) {\n      super(properties);\n    }\n  }\n\n  private DocumentImplementation document = new DocumentImplementation(new HashMap<>());\n\n  @Test\n  public void shouldPutAndGetValue() {\n    document.put(KEY, VALUE);\n    assertEquals(VALUE, document.get(KEY));\n  }\n\n  @Test\n  public void shouldRetrieveChildren() {\n    Map<String, Object> child1 = new HashMap<>();\n    Map<String, Object> child2 = new HashMap<>();\n    List<Map<String, Object>> children = Arrays.asList(child1, child2);\n\n    document.put(KEY, children);\n\n    Stream<DocumentImplementation> childrenStream = document.children(KEY, DocumentImplementation::new);\n    assertNotNull(children);                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          \n    assertEquals(2, childrenStream.count());\n  }\n\n  @Test\n  public void shouldRetrieveEmptyStreamForNonExistingChildren() {\n    Stream<DocumentImplementation> children = document.children(KEY, DocumentImplementation::new);\n    assertNotNull(children);\n    assertEquals(0, children.count());\n  }\n\n  @Test\n  public void shouldIncludePropsInToString() {\n    Map<String, Object> props = new HashMap<>();\n    props.put(KEY, VALUE);\n    DocumentImplementation document = new DocumentImplementation(props);\n    assertNotNull(document.toString().contains(KEY));\n    assertNotNull(document.toString().contains(VALUE));\n  }\n\n}\n",
+					"file": "/D/lujian/Documents/java-workspace/thirdparties/java-design-patterns/abstract-document/src/test/java/com/iluwatar/abstractdocument/AbstractDocumentTest.java",
+					"file_size": 3095,
+					"file_write_time": 131177119735617403,
+					"settings":
+					{
+						"buffer_size": 12183,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/D/lujian/Documents/java-workspace/thirdparties/java-design-patterns/aggregator-microservices/aggregator-service/pom.xml",
+					"settings":
+					{
+						"buffer_size": 3336,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							""
+						],
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							"Run"
+						]
+					],
+					[
+						"Packages/C++/C++ Single File.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							""
+						],
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							"Run"
+						],
+						[
+							"Packages/Makefile/Make.sublime-build",
+							""
+						],
+						[
+							"Packages/Makefile/Make.sublime-build",
+							"Clean"
+						]
+					],
+					[
+						"Packages/C++/C++ Single File.sublime-build",
+						"Run"
+					]
+				],
+				[
+					[
+						[
+							"Packages/Makefile/Make.sublime-build",
+							""
+						],
+						[
+							"Packages/Makefile/Make.sublime-build",
+							"Clean"
+						]
+					],
+					[
+						"Packages/Makefile/Make.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/User/CPP.sublime-build",
+							""
+						],
+						[
+							"Packages/User/CPP.sublime-build",
+							"Run"
+						]
+					],
+					[
+						"Packages/User/CPP.sublime-build",
+						""
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 392.0,
+				"last_filter": ":w",
+				"selected_items":
+				[
+					[
+						":w",
+						":w - Save"
+					],
+					[
+						":e",
+						":e - Revert"
+					],
+					[
+						"mark",
+						"Markdown Preview: Export HTML in Sublime Text"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: ins",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: Ins",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 416.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/D/lujian/Documents/java-workspace",
+				"/D/lujian/Documents/java-workspace/thirdparties",
+				"/D/lujian/Documents/java-workspace/thirdparties/java-design-patterns",
+				"/D/lujian/Documents/java-workspace/thirdparties/java-design-patterns/abstract-document",
+				"/D/lujian/Documents/java-workspace/thirdparties/java-design-patterns/abstract-document/src",
+				"/D/lujian/Documents/java-workspace/thirdparties/java-design-patterns/abstract-document/src/main",
+				"/D/lujian/Documents/java-workspace/thirdparties/java-design-patterns/abstract-document/src/main/java",
+				"/D/lujian/Documents/java-workspace/thirdparties/java-design-patterns/abstract-document/src/main/java/com",
+				"/D/lujian/Documents/java-workspace/thirdparties/java-design-patterns/abstract-document/src/main/java/com/iluwatar",
+				"/D/lujian/Documents/java-workspace/thirdparties/java-design-patterns/abstract-document/src/main/java/com/iluwatar/abstractdocument",
+				"/D/lujian/Documents/java-workspace/thirdparties/java-design-patterns/abstract-document/src/main/java/com/iluwatar/abstractdocument/domain",
+				"/D/lujian/Documents/java-workspace/thirdparties/java-design-patterns/abstract-document/src/test",
+				"/D/lujian/Documents/java-workspace/thirdparties/java-design-patterns/abstract-document/src/test/java",
+				"/D/lujian/Documents/java-workspace/thirdparties/java-design-patterns/abstract-document/src/test/java/com",
+				"/D/lujian/Documents/java-workspace/thirdparties/java-design-patterns/abstract-document/src/test/java/com/iluwatar",
+				"/D/lujian/Documents/java-workspace/thirdparties/java-design-patterns/abstract-document/src/test/java/com/iluwatar/abstractdocument",
+				"/D/lujian/Documents/java-workspace/thirdparties/java-design-patterns/adapter",
+				"/D/lujian/Documents/java-workspace/thirdparties/java-design-patterns/adapter/src",
+				"/D/lujian/Documents/java-workspace/thirdparties/java-design-patterns/adapter/src/main",
+				"/D/lujian/Documents/java-workspace/thirdparties/java-design-patterns/adapter/src/main/java",
+				"/D/lujian/Documents/java-workspace/thirdparties/java-design-patterns/adapter/src/main/java/com",
+				"/D/lujian/Documents/java-workspace/thirdparties/java-design-patterns/adapter/src/main/java/com/iluwatar",
+				"/D/lujian/Documents/java-workspace/thirdparties/java-design-patterns/adapter/src/main/java/com/iluwatar/adapter",
+				"/D/lujian/Documents/java-workspace/thirdparties/java-design-patterns/adapter/src/test",
+				"/D/lujian/Documents/java-workspace/thirdparties/java-design-patterns/aggregator-microservices",
+				"/D/lujian/Documents/java-workspace/thirdparties/java-design-patterns/aggregator-microservices/aggregator-service",
+				"/D/lujian/Documents/java-workspace/thirdparties/java-design-patterns/aggregator-microservices/aggregator-service/src",
+				"/D/lujian/Documents/java-workspace/thirdparties/java-design-patterns/aggregator-microservices/aggregator-service/src/main",
+				"/D/lujian/Documents/java-workspace/thirdparties/java-design-patterns/aggregator-microservices/aggregator-service/src/main/java",
+				"/D/lujian/Documents/java-workspace/thirdparties/java-design-patterns/aggregator-microservices/aggregator-service/src/main/java/com",
+				"/D/lujian/Documents/java-workspace/thirdparties/java-design-patterns/aggregator-microservices/aggregator-service/src/main/java/com/iluwatar",
+				"/D/lujian/Documents/java-workspace/thirdparties/java-design-patterns/aggregator-microservices/aggregator-service/src/main/java/com/iluwatar/aggregator",
+				"/D/lujian/Documents/java-workspace/thirdparties/java-design-patterns/aggregator-microservices/aggregator-service/src/main/java/com/iluwatar/aggregator/microservices",
+				"/D/lujian/Documents/java-workspace/thirdparties/java-design-patterns/aggregator-microservices/aggregator-service/src/main/resources",
+				"/D/lujian/Documents/java-workspace/thirdparties/java-design-patterns/aggregator-microservices/aggregator-service/src/test",
+				"/D/lujian/Documents/java-workspace/thirdparties/java-design-patterns/aggregator-microservices/aggregator-service/src/test/java",
+				"/D/lujian/Documents/java-workspace/thirdparties/java-design-patterns/aggregator-microservices/aggregator-service/src/test/java/com",
+				"/D/lujian/Documents/java-workspace/thirdparties/java-design-patterns/aggregator-microservices/aggregator-service/src/test/java/com/iluwatar",
+				"/D/lujian/Documents/java-workspace/thirdparties/java-design-patterns/aggregator-microservices/aggregator-service/src/test/java/com/iluwatar/aggregator",
+				"/D/lujian/Documents/java-workspace/thirdparties/java-design-patterns/aggregator-microservices/aggregator-service/src/test/java/com/iluwatar/aggregator/microservices",
+				"/D/lujian/Documents/java-workspace/thirdparties/java-design-patterns/aggregator-microservices/etc"
+			],
+			"file_history":
+			[
+				"/D/lujian/Documents/java-workspace/thirdparties/gradle/subprojects/dependency-management/src/test/groovy/org/gradle/api/internal/artifacts/ivyservice/ErrorHandlingConfigurationResolverTest.groovy",
+				"/D/lujian/Documents/java-workspace/thirdparties/tomcat/java/org/apache/coyote/http2/Stream.java",
+				"/D/lujian/Documents/java-workspace/thirdparties/gradle/subprojects/core/src/main/java/org/gradle/api/tasks/Optional.java",
+				"/D/lujian/Documents/java-workspace/thirdparties/spring-framework/src/test/java/com/foo/ComponentBeanDefinitionParserTests.java",
+				"/D/lujian/Documents/java-workspace/java-lab/web/build.gradle",
+				"/D/lujian/Documents/java-workspace/java-lab/web/src/main/resources/application.properties",
+				"/D/lujian/Documents/java-workspace/thirdparties/spring-boot/spring-boot-samples/spring-boot-sample-web-ui/src/main/java/sample/web/ui/SampleWebUiApplication.java",
+				"/D/lujian/Documents/java-workspace/thirdparties/spring-boot/spring-boot-samples/spring-boot-sample-web-jsp/pom.xml",
+				"/D/lujian/Documents/java-workspace/thirdparties/spring-boot/spring-boot-samples/spring-boot-sample-tomcat-jsp/pom.xml",
+				"/E/SDMOBARefactor/ClientSolution/Lockstep/Code/BehaviorTree/Action/Blackboard/SetUIntValue.cs",
+				"/E/SDMOBARefactor/ClientSolution/Lockstep/Code/BehaviorTree/Action/Blackboard/BlackboardAction.cs",
+				"/E/SDMOBARefactor/ClientSolution/Lockstep/Code/BehaviorTree/BehaviorTree.cs",
+				"/E/SDMOBARefactor/ClientSolution/LitJson/LitJson/JsonMapper.cs",
+				"/E/SDMOBARefactor/ClientSolution/Lockstep/Code/BehaviorTree/Action/Blackboard/CompareUIntValue.cs",
+				"/E/SDMOBARefactor/ClientSolution/Lockstep/Code/BehaviorTree/Action/Blackboard/CompareValue.cs",
+				"/E/SDMOBARefactor/ClientSolution/Lockstep/Code/Entity/Role.cs",
+				"/E/SDMOBARefactor/ClientSolution/Lockstep/Code/Entity/Entity.cs",
+				"/E/SDMOBARefactor/ClientSolution/Lockstep/Code/BehaviorTree/Decorator/ChildAgent.cs",
+				"/E/SDMOBARefactor/ClientSolution/Lockstep/Code/StateMachine/State/BehaviorTreeState.cs",
+				"/E/SDMOBARefactor/ClientSolution/Lockstep/Code/BehaviorTree/Node.cs",
+				"/E/SDMOBARefactor/ClientSolution/Lockstep/Code/StateMachine/AIStateMachine.cs",
+				"/E/SDMOBARefactor/ClientSolution/Lockstep/Code/BehaviorTree/Decorator/Repeater.cs",
+				"/E/SDMOBARefactor/ClientSolution/Lockstep/Code/BehaviorTree/Action/Blackboard/SetValue.cs",
+				"/E/SDMOBARefactor/ClientSolution/Lockstep/Code/BehaviorTree/Composite/Sequence.cs",
+				"/E/SDMOBARefactor/ClientSolution/Lockstep/Code/BehaviorTree/Decorator/RepeatAgent.cs",
+				"/E/SDMOBARefactor/ClientSolution/Lockstep/Code/BehaviorTree/Composite/Selector.cs",
+				"/E/SDMOBARefactor/ClientSolution/Lockstep/Code/BehaviorTree/Blackboard.cs",
+				"/E/SDMOBARefactor/ClientSolution/Lockstep/Code/BehaviorTree/Decorator/Entry.cs",
+				"/E/SDMOBARefactor/ClientSolution/Lockstep/Code/BehaviorTree/Action/Skill/FrameAction/SummonFrames.cs",
+				"/E/SDMOBARefactor/ClientSolution/Lockstep/Code/BehaviorTree/Action/Skill/FrameAction/FramesAction.cs",
+				"/E/SDMOBARefactor/ClientSolution/Lockstep/Code/BehaviorTree/Action/Skill/FrameAction/FrameAction.cs",
+				"/E/SDMOBARefactor/ClientSolution/Lockstep/Code/BehaviorTree/Action/Skill/FrameAction/CatchFrame.cs",
+				"/E/SDMOBARefactor/ClientSolution/Lockstep/Code/BehaviorTree/Action/Skill/FrameAction/CameraShakeFrames.cs",
+				"/E/SDMOBARefactor/ClientSolution/Lockstep/Code/BehaviorTree/Action/Skill/FrameAction/AttackFrames.cs",
+				"/E/SDMOBARefactor/ClientSolution/Lockstep/Code/BehaviorTree/Action/Blackboard/SetIntValue.cs",
+				"/E/SDMOBARefactor/ClientSolution/Lockstep/Code/BehaviorTree/Action/Blackboard/CompareIntValue.cs",
+				"/E/SDMOBARefactor/ClientSolution/Lockstep/Code/BehaviorTree/Action/Blackboard/EqualBoolValue.cs",
+				"/E/SDMOBARefactor/ClientSolution/Lockstep/Code/BehaviorTree/Action/Blackboard/SetBoolValue.cs",
+				"/E/SDMOBARefactor/Assets/Editor/BehaviorTreeEditor/BehaviorTreeEditorFieldArea.cs",
+				"/E/SDMOBARefactor/Assets/Editor/BehaviorTreeEditor/BehaviorTreeEditorDictFieldArea.cs",
+				"/E/SDMOBARefactor/ClientSolution/Lockstep/Code/BehaviorTree/Action.cs",
+				"/E/SDMOBARefactor/Assets/Editor/BehaviorTreeEditor/BehaviorTreeEditorBlackboardArea.cs",
+				"/E/SDMOBARefactor/Assets/Editor/BehaviorTreeEditor/BehaviorTreeEditor.cs",
+				"/E/SDMOBARefactor/Assets/Editor/BehaviorTreeEditor/BehaviorTreeEditorCommandManager.cs",
+				"/E/SDMOBARefactor/Assets/Editor/BehaviorTreeEditor/BehaviorTreeEditorTreeViewTopbar.cs",
+				"/E/SDMOBARefactor/Assets/Editor/BoundsFieldDrawer.cs",
+				"/C/Users/lujian/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+				"/C/Users/lujian/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+				"/E/SDMOBARefactor/Assets/Editor/BehaviorTreeEditor/BehaviorTreeEditorTreeView.cs",
+				"/E/SDMOBARefactor/Assets/Editor/BehaviorTreeEditor/BehaviorTreeEditorMenu.cs",
+				"/E/behaviac/example/spaceship/data/bt/behaviors/ships/3_basic_move.xml",
+				"/D/lujian/Documents/java-workspace/thirdparties/LeyeOA/WebContent/WEB-INF/web.xml",
+				"/D/lujian/Documents/java-workspace/sql-lab/src/src/main/resources/application.properties",
+				"/D/lujian/Documents/java-workspace/gs-gradle/initial/build.gradle",
+				"/D/lujian/Documents/java-workspace/thirdparties/gradle/build.gradle",
+				"/D/lujian/Documents/java-workspace/thirdparties/gradle/subprojects/ide/src/main/groovy/org/gradle/plugins/ide/idea/model/ModuleLibrary.java",
+				"/D/lujian/Documents/java-workspace/thirdparties/gradle/README.md",
+				"/C/Users/lujian/AppData/Roaming/Sublime Text 3/Installed Packages/Markdown Preview.sublime-package",
+				"/C/Users/lujian/AppData/Roaming/Sublime Text 3/Packages/Markdown Preview/MarkdownPreview.sublime-settings",
+				"/C/Users/lujian/AppData/Roaming/Sublime Text 3/Packages/User/MarkdownPreview.sublime-settings",
+				"/D/lujian/Documents/java-workspace/thirdparties/gradle/buildSrc/src/main/groovy/org/gradle/build/docs/dsl/docbook/ClassDocExtensionsBuilder.java",
+				"/D/lujian/Documents/java-workspace/thirdparties/struts-examples/annotations/src/main/java/example/actions/HelloAction.java",
+				"/D/lujian/Documents/java-workspace/thirdparties/spring-mvc-showcase/src/main/webapp/WEB-INF/spring/appServlet/controllers.xml",
+				"/D/lujian/Documents/php-workspace/thirdparty/thinkmobile/server/ThinkPHP/Library/Think/Model.class.php",
+				"/D/lujian/Documents/php-workspace/thirdparty/thinkmobile/server/ThinkPHP/Library/Think/Think.class.php",
+				"/D/lujian/Documents/php-workspace/thirdparty/thinkshop/Application/Common/Model/CommonModel.class.php",
+				"/D/lujian/Documents/php-workspace/thirdparty/thinkshop/ThinkPHP/Library/Think/Model.class.php",
+				"/D/lujian/Documents/php-workspace/thirdparty/thinkshop/Application/Admin/Controller/GoodsController.class.php",
+				"/D/lujian/Documents/php-workspace/thirdparty/thinkshop/Application/index.html",
+				"/D/lujian/Documents/php-workspace/thirdparty/thinkshop/Application/Admin/index.html",
+				"/D/lujian/Documents/php-workspace/thirdparty/thinkshop/Application/Admin/View/index.html",
+				"/D/lujian/Documents/php-workspace/thirdparty/thinkshop/Application/Admin/View/UserGroup/add_edit.html",
+				"/D/lujian/Documents/php-workspace/sql-learning/vendor/autoload.php",
+				"/D/lujian/Documents/php-workspace/thirdparty/Fixhub/vendor/composer/autoload_real.php",
+				"/D/lujian/Documents/php-workspace/thirdparty/Fixhub/README.md",
+				"/D/lujian/Documents/php-workspace/thirdparty/sqli-labs/sql-connections/db-creds.inc",
+				"/D/lujian/Documents/php-workspace/sql-learning/composer.json",
+				"/D/lujian/Documents/php-workspace/thirdparty/Fixhub/bootstrap/autoload.php",
+				"/D/lujian/Documents/php-workspace/thirdparty/Fixhub/vendor/composer/autoload_psr4.php",
+				"/D/lujian/Documents/php-workspace/thirdparty/Fixhub/vendor/composer/installed.json",
+				"/D/lujian/Documents/php-workspace/thirdparty/Fixhub/vendor/composer/include_paths.php",
+				"/D/lujian/Documents/php-workspace/thirdparty/Fixhub/vendor/composer/autoload_files.php",
+				"/D/lujian/Documents/php-workspace/thirdparty/Fixhub/vendor/symfony/polyfill-mbstring/bootstrap.php",
+				"/D/lujian/Applications/php-5.5.38-Win32-VC11-x86/php.ini-development",
+				"/E/SDMOBARefactor/Assets/Shaders/xf_heat_distortion.shader",
+				"/E/SDMOBARefactor/Assets/Shaders/Terrain3Layer.shader",
+				"/E/SDMOBARefactor/Assets/Shaders/RimLight.shader",
+				"/D/lujian/Documents/php-workspace/php-webim/README.md",
+				"/C/Users/lujian/AppData/Roaming/Sublime Text 3/Packages/MarkdownEditing/Bold and Italic Markers.tmPreferences",
+				"/C/Users/lujian/AppData/Roaming/Sublime Text 3/Packages/MarkdownEditing/Markdown.sublime-settings",
+				"/C/Users/lujian/AppData/Roaming/Sublime Text 3/Packages/Terminal/Terminal.sublime-settings",
+				"/D/lujian/Documents/cpp-workspace/thirdparty/tfs/src/common/base_main.cpp",
+				"/D/lujian/Documents/cpp-workspace/docgen/main.cpp",
+				"/D/lujian/Documents/cpp-workspace/thirdparty/tfs/src/common/cdefine.h",
+				"/D/lujian/Documents/cpp-workspace/test.lua",
+				"/D/lujian/Documents/cpp-workspace/thirdparty/tfs/src/dataserver/bit_map.cpp",
+				"/D/lujian/Documents/cpp-workspace/thirdparty/tfs/src/common/meta_server_define.cpp",
+				"/C/Users/lujian/AppData/Roaming/Sublime Text 3/Packages/CTags/Default.sublime-keymap",
+				"/D/lujian/Documents/cpp-workspace/thirdparty/tfs/src/common/base_main.h",
+				"/D/lujian/Documents/cpp-workspace/docgen/file_system/file.h",
+				"/C/Users/lujian/AppData/Roaming/Sublime Text 3/Packages/CTags/CTags.sublime-settings",
+				"/D/lujian/Documents/Lu-Kye.github.io/blogs/windows/problems.md",
+				"/C/Users/lujian/AppData/Roaming/Sublime Text 3/Packages/User/CPP.sublime-build",
+				"/D/lujian/Applications/php-5.6.25/INSTALL",
+				"/D/lujian/Applications/php-5.6.25/README.md",
+				"/C/Users/lujian/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+				"/C/Users/lujian/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings"
+			],
+			"find":
+			{
+				"height": 26.0
+			},
+			"find_in_files":
+			{
+				"height": 93.0,
+				"where_history":
+				[
+					"D:\\lujian\\Documents\\java-workspace\\thirdparties\\java-design-patterns\\abstract-document\\src\\test\\java\\com\\iluwatar\\abstractdocument",
+					"D:\\lujian\\Documents\\java-workspace\\thirdparties\\spring-framework",
+					"E:\\SDMOBARefactor\\ClientSolution\\Lockstep\\Code\\BehaviorTree",
+					"E:\\SDMOBARefactor\\ClientSolution\\Lockstep\\Code",
+					"E:\\SDMOBARefactor\\ClientSolution\\Lockstep",
+					"E:\\SDMOBARefactor\\Assets\\Scripts",
+					"E:\\SDMOBARefactor\\ClientSolution\\Lockstep\\Code\\Entity",
+					"E:\\SDMOBARefactor\\Assets\\Editor\\BehaviorTreeEditor",
+					"D:\\lujian\\Documents\\java-workspace\\thirdparties\\spring-mvc-showcase",
+					"D:\\lujian\\Documents\\java-workspace\\thirdparties\\spring-mvc-showcase\\src",
+					"D:\\lujian\\Documents\\java-workspace\\thirdparties\\tomcat\\java\\org\\apache\\tomcat",
+					"D:\\lujian\\Documents\\java-workspace\\thirdparties\\tomcat\\java\\org\\apache",
+					"D:\\lujian\\Documents\\java-workspace\\thirdparties\\gradle\\buildSrc\\src\\main",
+					"D:\\lujian\\Documents\\java-workspace\\thirdparties\\spring-mvc-showcase",
+					"D:\\lujian\\Documents\\php-workspace\\thirdparty\\Fixhub\\resources",
+					"D:\\lujian\\Documents\\php-workspace\\thirdparty\\Fixhub\\resources\\assets\\sass\\components",
+					"D:\\lujian\\Documents\\cpp-workspace\\thirdparty\\tfs"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"children",
+					"getComponents()",
+					"Component",
+					"Blackboard",
+					"revaluate",
+					"Target",
+					"_target",
+					"onTakeDamage",
+					"WriteValue",
+					"commandManager",
+					"TreeViewCommandManager",
+					"tab",
+					"Save",
+					"install",
+					"JSP-Serv",
+					"log",
+					"log4j",
+					"main(",
+					"main",
+					"APP_HOME",
+					"idea",
+					"markdown",
+					"apply plugin",
+					"plugin",
+					"samples",
+					"hideMode",
+					"loadClass",
+					"includeFile",
+					"include",
+					"require",
+					"col-md-8",
+					"EXIT_SUCCESS",
+					"UNAME_S"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "D:\\lujian\\Documents\\java-workspace"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 3,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/D/lujian/Documents/java-workspace/thirdparties/java-design-patterns/abstract-document/src/main/java/com/iluwatar/abstractdocument/Document.java",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1905,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1835,
+										1843
+									]
+								],
+								"settings":
+								{
+									"is_init_dirty_state": false,
+									"syntax": "Packages/Java/Java.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 490.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1048,
+								"regions":
+								{
+									"match":
+									{
+										"flags": 112,
+										"regions":
+										[
+											[
+												250,
+												258
+											],
+											[
+												414,
+												422
+											],
+											[
+												493,
+												501
+											],
+											[
+												554,
+												562
+											],
+											[
+												580,
+												588
+											],
+											[
+												649,
+												657
+											],
+											[
+												687,
+												695
+											],
+											[
+												806,
+												814
+											],
+											[
+												861,
+												869
+											],
+											[
+												881,
+												889
+											],
+											[
+												950,
+												958
+											],
+											[
+												988,
+												996
+											]
+										],
+										"scope": ""
+									}
+								},
+								"selection":
+								[
+									[
+										559,
+										559
+									]
+								],
+								"settings":
+								{
+									"detect_indentation": false,
+									"is_init_dirty_state": false,
+									"line_numbers": false,
+									"output_tag": 1,
+									"result_base_dir": "",
+									"result_file_regex": "^([^ \t].*):$",
+									"result_line_regex": "^ +([0-9]+):",
+									"scroll_past_end": true,
+									"syntax": "Packages/Default/Find Results.hidden-tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/D/lujian/Documents/java-workspace/thirdparties/java-design-patterns/abstract-document/src/test/java/com/iluwatar/abstractdocument/AbstractDocumentTest.java",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 12183,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1830,
+										1852
+									]
+								],
+								"settings":
+								{
+									"is_init_dirty_state": true,
+									"syntax": "Packages/Java/Java.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 270.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/D/lujian/Documents/java-workspace/thirdparties/java-design-patterns/aggregator-microservices/aggregator-service/pom.xml",
+							"semi_transient": true,
+							"settings":
+							{
+								"buffer_size": 3336,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1701,
+										1701
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/XML/XML.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 140.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 26.0
+			},
+			"input":
+			{
+				"height": 35.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 124.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "Packages/User/CPP.sublime-build",
+			"position": "0,2,3,-1,-1,-1,-1,663,117,125,773",
+			"project": "",
+			"replace":
+			{
+				"height": 48.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"aistate",
+						"ClientSolution\\Lockstep\\Code\\StateMachine\\AIStateMachine.cs"
+					],
+					[
+						"entry",
+						"ClientSolution\\Lockstep\\Code\\BehaviorTree\\Decorator\\Entry.cs"
+					],
+					[
+						"behaviortree",
+						"ClientSolution\\Lockstep\\Code\\BehaviorTree\\BehaviorTree.cs"
+					],
+					[
+						"betree",
+						"ClientSolution\\Lockstep\\Code\\BehaviorTree\\BehaviorTree.cs"
+					],
+					[
+						"blackbo",
+						"ClientSolution\\Lockstep\\Code\\BehaviorTree\\Blackboard.cs"
+					],
+					[
+						"beblack",
+						"Assets\\Editor\\BehaviorTreeEditor\\BehaviorTreeEditorBlackboardArea.cs"
+					],
+					[
+						"",
+						"Assets\\Editor\\BehaviorTreeEditor\\BehaviorTreeEditorFieldArea.cs"
+					],
+					[
+						"blackboard",
+						"Assets\\Editor\\BehaviorTreeEditor\\BehaviorTreeEditorBlackboardArea.cs"
+					],
+					[
+						"numguess",
+						"tomcat\\webapps\\examples\\jsp\\num\\numguess.jsp"
+					],
+					[
+						"modulelibrary",
+						"gradle\\subprojects\\ide\\src\\main\\groovy\\org\\gradle\\plugins\\ide\\idea\\model\\ModuleLibrary.java"
+					],
+					[
+						"colli",
+						"Scripts\\XPhysics\\BoundsCollider.cs"
+					],
+					[
+						"grayscalee",
+						"ThirdParts\\Standard Assets\\Effects\\ImageEffects\\Shaders\\GrayscaleEffect.shader"
+					],
+					[
+						"gray",
+						"ThirdParts\\Standard Assets\\Effects\\ImageEffects\\Scripts\\Grayscale.cs"
+					],
+					[
+						"greyscale",
+						"ThirdParts\\Standard Assets\\Effects\\ImageEffects\\Scripts\\Grayscale.cs"
+					],
+					[
+						"imageeffectbase",
+						"ThirdParts\\Standard Assets\\Effects\\ImageEffects\\Scripts\\ImageEffectBase.cs"
+					],
+					[
+						"graysc",
+						"ThirdParts\\Standard Assets\\Effects\\ImageEffects\\Scripts\\Grayscale.cs"
+					],
+					[
+						"runesp",
+						"Scripts\\Lockstep\\RuneSpawner.cs"
+					],
+					[
+						"runecon",
+						"Scripts\\Controller\\RuneController.cs"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 459.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 44,
+			"workspace_name": ""
+		},
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"Compa",
+						"CompareType"
+					],
+					[
+						"c",
+						"compareType"
+					],
+					[
+						"Com",
+						"CompareType"
+					],
+					[
+						"Black",
+						"BlackboardType"
+					],
+					[
+						"Dr",
+						"DrawDictionary"
+					],
+					[
+						"Draw",
+						"DrawDictionaryElement"
+					],
+					[
+						"ta",
+						"targetCamera"
+					],
+					[
+						"targ",
+						"targetTexture"
+					],
+					[
+						"tar",
+						"targetTexture"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/D/lujian/Documents/environments-setup/php/README.md",
+					"settings":
+					{
+						"buffer_size": 388,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/D/lujian/Documents/environments-setup/emacs/README.md",
+					"settings":
+					{
+						"buffer_size": 15,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							""
+						],
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							"Run"
+						]
+					],
+					[
+						"Packages/C++/C++ Single File.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							""
+						],
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							"Run"
+						],
+						[
+							"Packages/Makefile/Make.sublime-build",
+							""
+						],
+						[
+							"Packages/Makefile/Make.sublime-build",
+							"Clean"
+						]
+					],
+					[
+						"Packages/C++/C++ Single File.sublime-build",
+						"Run"
+					]
+				],
+				[
+					[
+						[
+							"Packages/Makefile/Make.sublime-build",
+							""
+						],
+						[
+							"Packages/Makefile/Make.sublime-build",
+							"Clean"
+						]
+					],
+					[
+						"Packages/Makefile/Make.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/User/CPP.sublime-build",
+							""
+						],
+						[
+							"Packages/User/CPP.sublime-build",
+							"Run"
+						]
+					],
+					[
+						"Packages/User/CPP.sublime-build",
+						""
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 392.0,
+				"last_filter": ":w",
+				"selected_items":
+				[
+					[
+						":w",
+						":w - Save"
+					],
+					[
+						":e",
+						":e - Revert"
+					],
+					[
+						"mark",
+						"Markdown Preview: Export HTML in Sublime Text"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: ins",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: Ins",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 416.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/D/lujian/Documents/environments-setup",
+				"/D/lujian/Documents/environments-setup/emacs",
+				"/D/lujian/Documents/environments-setup/php"
+			],
+			"file_history":
+			[
+				"/D/lujian/Documents/java-workspace/thirdparties/gradle/subprojects/dependency-management/src/test/groovy/org/gradle/api/internal/artifacts/ivyservice/ErrorHandlingConfigurationResolverTest.groovy",
+				"/D/lujian/Documents/java-workspace/thirdparties/tomcat/java/org/apache/coyote/http2/Stream.java",
+				"/D/lujian/Documents/java-workspace/thirdparties/gradle/subprojects/core/src/main/java/org/gradle/api/tasks/Optional.java",
+				"/D/lujian/Documents/java-workspace/thirdparties/spring-framework/src/test/java/com/foo/ComponentBeanDefinitionParserTests.java",
+				"/D/lujian/Documents/java-workspace/java-lab/web/build.gradle",
+				"/D/lujian/Documents/java-workspace/java-lab/web/src/main/resources/application.properties",
+				"/D/lujian/Documents/java-workspace/thirdparties/spring-boot/spring-boot-samples/spring-boot-sample-web-ui/src/main/java/sample/web/ui/SampleWebUiApplication.java",
+				"/D/lujian/Documents/java-workspace/thirdparties/spring-boot/spring-boot-samples/spring-boot-sample-web-jsp/pom.xml",
+				"/D/lujian/Documents/java-workspace/thirdparties/spring-boot/spring-boot-samples/spring-boot-sample-tomcat-jsp/pom.xml",
+				"/E/SDMOBARefactor/ClientSolution/Lockstep/Code/BehaviorTree/Action/Blackboard/SetUIntValue.cs",
+				"/E/SDMOBARefactor/ClientSolution/Lockstep/Code/BehaviorTree/Action/Blackboard/BlackboardAction.cs",
+				"/E/SDMOBARefactor/ClientSolution/Lockstep/Code/BehaviorTree/BehaviorTree.cs",
+				"/E/SDMOBARefactor/ClientSolution/LitJson/LitJson/JsonMapper.cs",
+				"/E/SDMOBARefactor/ClientSolution/Lockstep/Code/BehaviorTree/Action/Blackboard/CompareUIntValue.cs",
+				"/E/SDMOBARefactor/ClientSolution/Lockstep/Code/BehaviorTree/Action/Blackboard/CompareValue.cs",
+				"/E/SDMOBARefactor/ClientSolution/Lockstep/Code/Entity/Role.cs",
+				"/E/SDMOBARefactor/ClientSolution/Lockstep/Code/Entity/Entity.cs",
+				"/E/SDMOBARefactor/ClientSolution/Lockstep/Code/BehaviorTree/Decorator/ChildAgent.cs",
+				"/E/SDMOBARefactor/ClientSolution/Lockstep/Code/StateMachine/State/BehaviorTreeState.cs",
+				"/E/SDMOBARefactor/ClientSolution/Lockstep/Code/BehaviorTree/Node.cs",
+				"/E/SDMOBARefactor/ClientSolution/Lockstep/Code/StateMachine/AIStateMachine.cs",
+				"/E/SDMOBARefactor/ClientSolution/Lockstep/Code/BehaviorTree/Decorator/Repeater.cs",
+				"/E/SDMOBARefactor/ClientSolution/Lockstep/Code/BehaviorTree/Action/Blackboard/SetValue.cs",
+				"/E/SDMOBARefactor/ClientSolution/Lockstep/Code/BehaviorTree/Composite/Sequence.cs",
+				"/E/SDMOBARefactor/ClientSolution/Lockstep/Code/BehaviorTree/Decorator/RepeatAgent.cs",
+				"/E/SDMOBARefactor/ClientSolution/Lockstep/Code/BehaviorTree/Composite/Selector.cs",
+				"/E/SDMOBARefactor/ClientSolution/Lockstep/Code/BehaviorTree/Blackboard.cs",
+				"/E/SDMOBARefactor/ClientSolution/Lockstep/Code/BehaviorTree/Decorator/Entry.cs",
+				"/E/SDMOBARefactor/ClientSolution/Lockstep/Code/BehaviorTree/Action/Skill/FrameAction/SummonFrames.cs",
+				"/E/SDMOBARefactor/ClientSolution/Lockstep/Code/BehaviorTree/Action/Skill/FrameAction/FramesAction.cs",
+				"/E/SDMOBARefactor/ClientSolution/Lockstep/Code/BehaviorTree/Action/Skill/FrameAction/FrameAction.cs",
+				"/E/SDMOBARefactor/ClientSolution/Lockstep/Code/BehaviorTree/Action/Skill/FrameAction/CatchFrame.cs",
+				"/E/SDMOBARefactor/ClientSolution/Lockstep/Code/BehaviorTree/Action/Skill/FrameAction/CameraShakeFrames.cs",
+				"/E/SDMOBARefactor/ClientSolution/Lockstep/Code/BehaviorTree/Action/Skill/FrameAction/AttackFrames.cs",
+				"/E/SDMOBARefactor/ClientSolution/Lockstep/Code/BehaviorTree/Action/Blackboard/SetIntValue.cs",
+				"/E/SDMOBARefactor/ClientSolution/Lockstep/Code/BehaviorTree/Action/Blackboard/CompareIntValue.cs",
+				"/E/SDMOBARefactor/ClientSolution/Lockstep/Code/BehaviorTree/Action/Blackboard/EqualBoolValue.cs",
+				"/E/SDMOBARefactor/ClientSolution/Lockstep/Code/BehaviorTree/Action/Blackboard/SetBoolValue.cs",
+				"/E/SDMOBARefactor/Assets/Editor/BehaviorTreeEditor/BehaviorTreeEditorFieldArea.cs",
+				"/E/SDMOBARefactor/Assets/Editor/BehaviorTreeEditor/BehaviorTreeEditorDictFieldArea.cs",
+				"/E/SDMOBARefactor/ClientSolution/Lockstep/Code/BehaviorTree/Action.cs",
+				"/E/SDMOBARefactor/Assets/Editor/BehaviorTreeEditor/BehaviorTreeEditorBlackboardArea.cs",
+				"/E/SDMOBARefactor/Assets/Editor/BehaviorTreeEditor/BehaviorTreeEditor.cs",
+				"/E/SDMOBARefactor/Assets/Editor/BehaviorTreeEditor/BehaviorTreeEditorCommandManager.cs",
+				"/E/SDMOBARefactor/Assets/Editor/BehaviorTreeEditor/BehaviorTreeEditorTreeViewTopbar.cs",
+				"/E/SDMOBARefactor/Assets/Editor/BoundsFieldDrawer.cs",
+				"/C/Users/lujian/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+				"/C/Users/lujian/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+				"/E/SDMOBARefactor/Assets/Editor/BehaviorTreeEditor/BehaviorTreeEditorTreeView.cs",
+				"/E/SDMOBARefactor/Assets/Editor/BehaviorTreeEditor/BehaviorTreeEditorMenu.cs",
+				"/E/behaviac/example/spaceship/data/bt/behaviors/ships/3_basic_move.xml",
+				"/D/lujian/Documents/java-workspace/thirdparties/LeyeOA/WebContent/WEB-INF/web.xml",
+				"/D/lujian/Documents/java-workspace/sql-lab/src/src/main/resources/application.properties",
+				"/D/lujian/Documents/java-workspace/gs-gradle/initial/build.gradle",
+				"/D/lujian/Documents/java-workspace/thirdparties/gradle/build.gradle",
+				"/D/lujian/Documents/java-workspace/thirdparties/gradle/subprojects/ide/src/main/groovy/org/gradle/plugins/ide/idea/model/ModuleLibrary.java",
+				"/D/lujian/Documents/java-workspace/thirdparties/gradle/README.md",
+				"/C/Users/lujian/AppData/Roaming/Sublime Text 3/Installed Packages/Markdown Preview.sublime-package",
+				"/C/Users/lujian/AppData/Roaming/Sublime Text 3/Packages/Markdown Preview/MarkdownPreview.sublime-settings",
+				"/C/Users/lujian/AppData/Roaming/Sublime Text 3/Packages/User/MarkdownPreview.sublime-settings",
+				"/D/lujian/Documents/java-workspace/thirdparties/gradle/buildSrc/src/main/groovy/org/gradle/build/docs/dsl/docbook/ClassDocExtensionsBuilder.java",
+				"/D/lujian/Documents/java-workspace/thirdparties/struts-examples/annotations/src/main/java/example/actions/HelloAction.java",
+				"/D/lujian/Documents/java-workspace/thirdparties/spring-mvc-showcase/src/main/webapp/WEB-INF/spring/appServlet/controllers.xml",
+				"/D/lujian/Documents/php-workspace/thirdparty/thinkmobile/server/ThinkPHP/Library/Think/Model.class.php",
+				"/D/lujian/Documents/php-workspace/thirdparty/thinkmobile/server/ThinkPHP/Library/Think/Think.class.php",
+				"/D/lujian/Documents/php-workspace/thirdparty/thinkshop/Application/Common/Model/CommonModel.class.php",
+				"/D/lujian/Documents/php-workspace/thirdparty/thinkshop/ThinkPHP/Library/Think/Model.class.php",
+				"/D/lujian/Documents/php-workspace/thirdparty/thinkshop/Application/Admin/Controller/GoodsController.class.php",
+				"/D/lujian/Documents/php-workspace/thirdparty/thinkshop/Application/index.html",
+				"/D/lujian/Documents/php-workspace/thirdparty/thinkshop/Application/Admin/index.html",
+				"/D/lujian/Documents/php-workspace/thirdparty/thinkshop/Application/Admin/View/index.html",
+				"/D/lujian/Documents/php-workspace/thirdparty/thinkshop/Application/Admin/View/UserGroup/add_edit.html",
+				"/D/lujian/Documents/php-workspace/sql-learning/vendor/autoload.php",
+				"/D/lujian/Documents/php-workspace/thirdparty/Fixhub/vendor/composer/autoload_real.php",
+				"/D/lujian/Documents/php-workspace/thirdparty/Fixhub/README.md",
+				"/D/lujian/Documents/php-workspace/thirdparty/sqli-labs/sql-connections/db-creds.inc",
+				"/D/lujian/Documents/php-workspace/sql-learning/composer.json",
+				"/D/lujian/Documents/php-workspace/thirdparty/Fixhub/bootstrap/autoload.php",
+				"/D/lujian/Documents/php-workspace/thirdparty/Fixhub/vendor/composer/autoload_psr4.php",
+				"/D/lujian/Documents/php-workspace/thirdparty/Fixhub/vendor/composer/installed.json",
+				"/D/lujian/Documents/php-workspace/thirdparty/Fixhub/vendor/composer/include_paths.php",
+				"/D/lujian/Documents/php-workspace/thirdparty/Fixhub/vendor/composer/autoload_files.php",
+				"/D/lujian/Documents/php-workspace/thirdparty/Fixhub/vendor/symfony/polyfill-mbstring/bootstrap.php",
+				"/D/lujian/Applications/php-5.5.38-Win32-VC11-x86/php.ini-development",
+				"/E/SDMOBARefactor/Assets/Shaders/xf_heat_distortion.shader",
+				"/E/SDMOBARefactor/Assets/Shaders/Terrain3Layer.shader",
+				"/E/SDMOBARefactor/Assets/Shaders/RimLight.shader",
+				"/D/lujian/Documents/php-workspace/php-webim/README.md",
+				"/C/Users/lujian/AppData/Roaming/Sublime Text 3/Packages/MarkdownEditing/Bold and Italic Markers.tmPreferences",
+				"/C/Users/lujian/AppData/Roaming/Sublime Text 3/Packages/MarkdownEditing/Markdown.sublime-settings",
+				"/C/Users/lujian/AppData/Roaming/Sublime Text 3/Packages/Terminal/Terminal.sublime-settings",
+				"/D/lujian/Documents/cpp-workspace/thirdparty/tfs/src/common/base_main.cpp",
+				"/D/lujian/Documents/cpp-workspace/docgen/main.cpp",
+				"/D/lujian/Documents/cpp-workspace/thirdparty/tfs/src/common/cdefine.h",
+				"/D/lujian/Documents/cpp-workspace/test.lua",
+				"/D/lujian/Documents/cpp-workspace/thirdparty/tfs/src/dataserver/bit_map.cpp",
+				"/D/lujian/Documents/cpp-workspace/thirdparty/tfs/src/common/meta_server_define.cpp",
+				"/C/Users/lujian/AppData/Roaming/Sublime Text 3/Packages/CTags/Default.sublime-keymap",
+				"/D/lujian/Documents/cpp-workspace/thirdparty/tfs/src/common/base_main.h",
+				"/D/lujian/Documents/cpp-workspace/docgen/file_system/file.h",
+				"/C/Users/lujian/AppData/Roaming/Sublime Text 3/Packages/CTags/CTags.sublime-settings",
+				"/D/lujian/Documents/Lu-Kye.github.io/blogs/windows/problems.md",
+				"/C/Users/lujian/AppData/Roaming/Sublime Text 3/Packages/User/CPP.sublime-build",
+				"/D/lujian/Applications/php-5.6.25/INSTALL",
+				"/D/lujian/Applications/php-5.6.25/README.md",
+				"/C/Users/lujian/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+				"/C/Users/lujian/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings"
+			],
+			"find":
+			{
+				"height": 26.0
+			},
+			"find_in_files":
+			{
+				"height": 93.0,
+				"where_history":
+				[
+					"D:\\lujian\\Documents\\java-workspace\\thirdparties\\java-design-patterns\\abstract-document\\src\\test\\java\\com\\iluwatar\\abstractdocument",
+					"D:\\lujian\\Documents\\java-workspace\\thirdparties\\spring-framework",
+					"E:\\SDMOBARefactor\\ClientSolution\\Lockstep\\Code\\BehaviorTree",
+					"E:\\SDMOBARefactor\\ClientSolution\\Lockstep\\Code",
+					"E:\\SDMOBARefactor\\ClientSolution\\Lockstep",
+					"E:\\SDMOBARefactor\\Assets\\Scripts",
+					"E:\\SDMOBARefactor\\ClientSolution\\Lockstep\\Code\\Entity",
+					"E:\\SDMOBARefactor\\Assets\\Editor\\BehaviorTreeEditor",
+					"D:\\lujian\\Documents\\java-workspace\\thirdparties\\spring-mvc-showcase",
+					"D:\\lujian\\Documents\\java-workspace\\thirdparties\\spring-mvc-showcase\\src",
+					"D:\\lujian\\Documents\\java-workspace\\thirdparties\\tomcat\\java\\org\\apache\\tomcat",
+					"D:\\lujian\\Documents\\java-workspace\\thirdparties\\tomcat\\java\\org\\apache",
+					"D:\\lujian\\Documents\\java-workspace\\thirdparties\\gradle\\buildSrc\\src\\main",
+					"D:\\lujian\\Documents\\java-workspace\\thirdparties\\spring-mvc-showcase",
+					"D:\\lujian\\Documents\\php-workspace\\thirdparty\\Fixhub\\resources",
+					"D:\\lujian\\Documents\\php-workspace\\thirdparty\\Fixhub\\resources\\assets\\sass\\components",
+					"D:\\lujian\\Documents\\cpp-workspace\\thirdparty\\tfs"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"children",
+					"getComponents()",
+					"Component",
+					"Blackboard",
+					"revaluate",
+					"Target",
+					"_target",
+					"onTakeDamage",
+					"WriteValue",
+					"commandManager",
+					"TreeViewCommandManager",
+					"tab",
+					"Save",
+					"install",
+					"JSP-Serv",
+					"log",
+					"log4j",
+					"main(",
+					"main",
+					"APP_HOME",
+					"idea",
+					"markdown",
+					"apply plugin",
+					"plugin",
+					"samples",
+					"hideMode",
+					"loadClass",
+					"includeFile",
+					"include",
+					"require",
+					"col-md-8",
+					"EXIT_SUCCESS",
+					"UNAME_S"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "D:\\lujian\\Documents\\environments-setup"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 1,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/D/lujian/Documents/environments-setup/php/README.md",
+							"semi_transient": true,
+							"settings":
+							{
+								"buffer_size": 388,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										388
+									]
+								],
+								"settings":
+								{
+									"origin_encoding": "ASCII",
+									"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/D/lujian/Documents/environments-setup/emacs/README.md",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 15,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										14,
+										14
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 26.0
+			},
+			"input":
+			{
+				"height": 35.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 124.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "Packages/User/CPP.sublime-build",
+			"position": "0,2,3,-1,-1,-1,-1,563,25,25,681",
+			"project": "",
+			"replace":
+			{
+				"height": 48.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"aistate",
+						"ClientSolution\\Lockstep\\Code\\StateMachine\\AIStateMachine.cs"
+					],
+					[
+						"entry",
+						"ClientSolution\\Lockstep\\Code\\BehaviorTree\\Decorator\\Entry.cs"
+					],
+					[
+						"behaviortree",
+						"ClientSolution\\Lockstep\\Code\\BehaviorTree\\BehaviorTree.cs"
+					],
+					[
+						"betree",
+						"ClientSolution\\Lockstep\\Code\\BehaviorTree\\BehaviorTree.cs"
+					],
+					[
+						"blackbo",
+						"ClientSolution\\Lockstep\\Code\\BehaviorTree\\Blackboard.cs"
+					],
+					[
+						"beblack",
+						"Assets\\Editor\\BehaviorTreeEditor\\BehaviorTreeEditorBlackboardArea.cs"
+					],
+					[
+						"",
+						"Assets\\Editor\\BehaviorTreeEditor\\BehaviorTreeEditorFieldArea.cs"
+					],
+					[
+						"blackboard",
+						"Assets\\Editor\\BehaviorTreeEditor\\BehaviorTreeEditorBlackboardArea.cs"
+					],
+					[
+						"numguess",
+						"tomcat\\webapps\\examples\\jsp\\num\\numguess.jsp"
+					],
+					[
+						"modulelibrary",
+						"gradle\\subprojects\\ide\\src\\main\\groovy\\org\\gradle\\plugins\\ide\\idea\\model\\ModuleLibrary.java"
+					],
+					[
+						"colli",
+						"Scripts\\XPhysics\\BoundsCollider.cs"
+					],
+					[
+						"grayscalee",
+						"ThirdParts\\Standard Assets\\Effects\\ImageEffects\\Shaders\\GrayscaleEffect.shader"
+					],
+					[
+						"gray",
+						"ThirdParts\\Standard Assets\\Effects\\ImageEffects\\Scripts\\Grayscale.cs"
+					],
+					[
+						"greyscale",
+						"ThirdParts\\Standard Assets\\Effects\\ImageEffects\\Scripts\\Grayscale.cs"
+					],
+					[
+						"imageeffectbase",
+						"ThirdParts\\Standard Assets\\Effects\\ImageEffects\\Scripts\\ImageEffectBase.cs"
+					],
+					[
+						"graysc",
+						"ThirdParts\\Standard Assets\\Effects\\ImageEffects\\Scripts\\Grayscale.cs"
+					],
+					[
+						"runesp",
+						"Scripts\\Lockstep\\RuneSpawner.cs"
+					],
+					[
+						"runecon",
+						"Scripts\\Controller\\RuneController.cs"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 459.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 48,
+			"workspace_name": ""
+		},
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"Compa",
+						"CompareType"
+					],
+					[
+						"c",
+						"compareType"
+					],
+					[
+						"Com",
+						"CompareType"
+					],
+					[
+						"Black",
+						"BlackboardType"
+					],
+					[
+						"Dr",
+						"DrawDictionary"
+					],
+					[
+						"Draw",
+						"DrawDictionaryElement"
+					],
+					[
+						"ta",
+						"targetCamera"
+					],
+					[
+						"targ",
+						"targetTexture"
+					],
+					[
+						"tar",
+						"targetTexture"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/D/lujian/Documents/Lu-Kye.github.io/blogs/tasks/project_tasks.md",
+					"settings":
+					{
+						"buffer_size": 156,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/D/lujian/Documents/Lu-Kye.github.io/blogs/tasks/reading_tasks.md",
+					"settings":
+					{
+						"buffer_size": 368,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							""
+						],
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							"Run"
+						]
+					],
+					[
+						"Packages/C++/C++ Single File.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							""
+						],
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							"Run"
+						],
+						[
+							"Packages/Makefile/Make.sublime-build",
+							""
+						],
+						[
+							"Packages/Makefile/Make.sublime-build",
+							"Clean"
+						]
+					],
+					[
+						"Packages/C++/C++ Single File.sublime-build",
+						"Run"
+					]
+				],
+				[
+					[
+						[
+							"Packages/Makefile/Make.sublime-build",
+							""
+						],
+						[
+							"Packages/Makefile/Make.sublime-build",
+							"Clean"
+						]
+					],
+					[
+						"Packages/Makefile/Make.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/User/CPP.sublime-build",
+							""
+						],
+						[
+							"Packages/User/CPP.sublime-build",
+							"Run"
+						]
+					],
+					[
+						"Packages/User/CPP.sublime-build",
+						""
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 392.0,
+				"last_filter": ":w",
+				"selected_items":
+				[
+					[
+						":w",
+						":w - Save"
+					],
+					[
+						":e",
+						":e - Revert"
+					],
+					[
+						"mark",
+						"Markdown Preview: Export HTML in Sublime Text"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: ins",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: Ins",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 416.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/D/lujian/Documents/Lu-Kye.github.io/blogs",
+				"/D/lujian/Documents/Lu-Kye.github.io/blogs/algorithm",
+				"/D/lujian/Documents/Lu-Kye.github.io/blogs/android",
+				"/D/lujian/Documents/Lu-Kye.github.io/blogs/artist",
+				"/D/lujian/Documents/Lu-Kye.github.io/blogs/concepts",
+				"/D/lujian/Documents/Lu-Kye.github.io/blogs/cordova",
+				"/D/lujian/Documents/Lu-Kye.github.io/blogs/cpp",
+				"/D/lujian/Documents/Lu-Kye.github.io/blogs/csharp",
+				"/D/lujian/Documents/Lu-Kye.github.io/blogs/data structure",
+				"/D/lujian/Documents/Lu-Kye.github.io/blogs/ios",
+				"/D/lujian/Documents/Lu-Kye.github.io/blogs/lua",
+				"/D/lujian/Documents/Lu-Kye.github.io/blogs/osx",
+				"/D/lujian/Documents/Lu-Kye.github.io/blogs/pm",
+				"/D/lujian/Documents/Lu-Kye.github.io/blogs/python",
+				"/D/lujian/Documents/Lu-Kye.github.io/blogs/server",
+				"/D/lujian/Documents/Lu-Kye.github.io/blogs/tasks",
+				"/D/lujian/Documents/Lu-Kye.github.io/blogs/terminology",
+				"/D/lujian/Documents/Lu-Kye.github.io/blogs/tools",
+				"/D/lujian/Documents/Lu-Kye.github.io/blogs/unity",
+				"/D/lujian/Documents/Lu-Kye.github.io/blogs/windows"
+			],
+			"file_history":
+			[
+				"/D/lujian/Documents/java-workspace/thirdparties/gradle/subprojects/dependency-management/src/test/groovy/org/gradle/api/internal/artifacts/ivyservice/ErrorHandlingConfigurationResolverTest.groovy",
+				"/D/lujian/Documents/java-workspace/thirdparties/tomcat/java/org/apache/coyote/http2/Stream.java",
+				"/D/lujian/Documents/java-workspace/thirdparties/gradle/subprojects/core/src/main/java/org/gradle/api/tasks/Optional.java",
+				"/D/lujian/Documents/java-workspace/thirdparties/spring-framework/src/test/java/com/foo/ComponentBeanDefinitionParserTests.java",
+				"/D/lujian/Documents/java-workspace/java-lab/web/build.gradle",
+				"/D/lujian/Documents/java-workspace/java-lab/web/src/main/resources/application.properties",
+				"/D/lujian/Documents/java-workspace/thirdparties/spring-boot/spring-boot-samples/spring-boot-sample-web-ui/src/main/java/sample/web/ui/SampleWebUiApplication.java",
+				"/D/lujian/Documents/java-workspace/thirdparties/spring-boot/spring-boot-samples/spring-boot-sample-web-jsp/pom.xml",
+				"/D/lujian/Documents/java-workspace/thirdparties/spring-boot/spring-boot-samples/spring-boot-sample-tomcat-jsp/pom.xml",
+				"/E/SDMOBARefactor/ClientSolution/Lockstep/Code/BehaviorTree/Action/Blackboard/SetUIntValue.cs",
+				"/E/SDMOBARefactor/ClientSolution/Lockstep/Code/BehaviorTree/Action/Blackboard/BlackboardAction.cs",
+				"/E/SDMOBARefactor/ClientSolution/Lockstep/Code/BehaviorTree/BehaviorTree.cs",
+				"/E/SDMOBARefactor/ClientSolution/LitJson/LitJson/JsonMapper.cs",
+				"/E/SDMOBARefactor/ClientSolution/Lockstep/Code/BehaviorTree/Action/Blackboard/CompareUIntValue.cs",
+				"/E/SDMOBARefactor/ClientSolution/Lockstep/Code/BehaviorTree/Action/Blackboard/CompareValue.cs",
+				"/E/SDMOBARefactor/ClientSolution/Lockstep/Code/Entity/Role.cs",
+				"/E/SDMOBARefactor/ClientSolution/Lockstep/Code/Entity/Entity.cs",
+				"/E/SDMOBARefactor/ClientSolution/Lockstep/Code/BehaviorTree/Decorator/ChildAgent.cs",
+				"/E/SDMOBARefactor/ClientSolution/Lockstep/Code/StateMachine/State/BehaviorTreeState.cs",
+				"/E/SDMOBARefactor/ClientSolution/Lockstep/Code/BehaviorTree/Node.cs",
+				"/E/SDMOBARefactor/ClientSolution/Lockstep/Code/StateMachine/AIStateMachine.cs",
+				"/E/SDMOBARefactor/ClientSolution/Lockstep/Code/BehaviorTree/Decorator/Repeater.cs",
+				"/E/SDMOBARefactor/ClientSolution/Lockstep/Code/BehaviorTree/Action/Blackboard/SetValue.cs",
+				"/E/SDMOBARefactor/ClientSolution/Lockstep/Code/BehaviorTree/Composite/Sequence.cs",
+				"/E/SDMOBARefactor/ClientSolution/Lockstep/Code/BehaviorTree/Decorator/RepeatAgent.cs",
+				"/E/SDMOBARefactor/ClientSolution/Lockstep/Code/BehaviorTree/Composite/Selector.cs",
+				"/E/SDMOBARefactor/ClientSolution/Lockstep/Code/BehaviorTree/Blackboard.cs",
+				"/E/SDMOBARefactor/ClientSolution/Lockstep/Code/BehaviorTree/Decorator/Entry.cs",
+				"/E/SDMOBARefactor/ClientSolution/Lockstep/Code/BehaviorTree/Action/Skill/FrameAction/SummonFrames.cs",
+				"/E/SDMOBARefactor/ClientSolution/Lockstep/Code/BehaviorTree/Action/Skill/FrameAction/FramesAction.cs",
+				"/E/SDMOBARefactor/ClientSolution/Lockstep/Code/BehaviorTree/Action/Skill/FrameAction/FrameAction.cs",
+				"/E/SDMOBARefactor/ClientSolution/Lockstep/Code/BehaviorTree/Action/Skill/FrameAction/CatchFrame.cs",
+				"/E/SDMOBARefactor/ClientSolution/Lockstep/Code/BehaviorTree/Action/Skill/FrameAction/CameraShakeFrames.cs",
+				"/E/SDMOBARefactor/ClientSolution/Lockstep/Code/BehaviorTree/Action/Skill/FrameAction/AttackFrames.cs",
+				"/E/SDMOBARefactor/ClientSolution/Lockstep/Code/BehaviorTree/Action/Blackboard/SetIntValue.cs",
+				"/E/SDMOBARefactor/ClientSolution/Lockstep/Code/BehaviorTree/Action/Blackboard/CompareIntValue.cs",
+				"/E/SDMOBARefactor/ClientSolution/Lockstep/Code/BehaviorTree/Action/Blackboard/EqualBoolValue.cs",
+				"/E/SDMOBARefactor/ClientSolution/Lockstep/Code/BehaviorTree/Action/Blackboard/SetBoolValue.cs",
+				"/E/SDMOBARefactor/Assets/Editor/BehaviorTreeEditor/BehaviorTreeEditorFieldArea.cs",
+				"/E/SDMOBARefactor/Assets/Editor/BehaviorTreeEditor/BehaviorTreeEditorDictFieldArea.cs",
+				"/E/SDMOBARefactor/ClientSolution/Lockstep/Code/BehaviorTree/Action.cs",
+				"/E/SDMOBARefactor/Assets/Editor/BehaviorTreeEditor/BehaviorTreeEditorBlackboardArea.cs",
+				"/E/SDMOBARefactor/Assets/Editor/BehaviorTreeEditor/BehaviorTreeEditor.cs",
+				"/E/SDMOBARefactor/Assets/Editor/BehaviorTreeEditor/BehaviorTreeEditorCommandManager.cs",
+				"/E/SDMOBARefactor/Assets/Editor/BehaviorTreeEditor/BehaviorTreeEditorTreeViewTopbar.cs",
+				"/E/SDMOBARefactor/Assets/Editor/BoundsFieldDrawer.cs",
+				"/C/Users/lujian/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+				"/C/Users/lujian/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+				"/E/SDMOBARefactor/Assets/Editor/BehaviorTreeEditor/BehaviorTreeEditorTreeView.cs",
+				"/E/SDMOBARefactor/Assets/Editor/BehaviorTreeEditor/BehaviorTreeEditorMenu.cs",
+				"/E/behaviac/example/spaceship/data/bt/behaviors/ships/3_basic_move.xml",
+				"/D/lujian/Documents/java-workspace/thirdparties/LeyeOA/WebContent/WEB-INF/web.xml",
+				"/D/lujian/Documents/java-workspace/sql-lab/src/src/main/resources/application.properties",
+				"/D/lujian/Documents/java-workspace/gs-gradle/initial/build.gradle",
+				"/D/lujian/Documents/java-workspace/thirdparties/gradle/build.gradle",
+				"/D/lujian/Documents/java-workspace/thirdparties/gradle/subprojects/ide/src/main/groovy/org/gradle/plugins/ide/idea/model/ModuleLibrary.java",
+				"/D/lujian/Documents/java-workspace/thirdparties/gradle/README.md",
+				"/C/Users/lujian/AppData/Roaming/Sublime Text 3/Installed Packages/Markdown Preview.sublime-package",
+				"/C/Users/lujian/AppData/Roaming/Sublime Text 3/Packages/Markdown Preview/MarkdownPreview.sublime-settings",
+				"/C/Users/lujian/AppData/Roaming/Sublime Text 3/Packages/User/MarkdownPreview.sublime-settings",
+				"/D/lujian/Documents/java-workspace/thirdparties/gradle/buildSrc/src/main/groovy/org/gradle/build/docs/dsl/docbook/ClassDocExtensionsBuilder.java",
+				"/D/lujian/Documents/java-workspace/thirdparties/struts-examples/annotations/src/main/java/example/actions/HelloAction.java",
+				"/D/lujian/Documents/java-workspace/thirdparties/spring-mvc-showcase/src/main/webapp/WEB-INF/spring/appServlet/controllers.xml",
+				"/D/lujian/Documents/php-workspace/thirdparty/thinkmobile/server/ThinkPHP/Library/Think/Model.class.php",
+				"/D/lujian/Documents/php-workspace/thirdparty/thinkmobile/server/ThinkPHP/Library/Think/Think.class.php",
+				"/D/lujian/Documents/php-workspace/thirdparty/thinkshop/Application/Common/Model/CommonModel.class.php",
+				"/D/lujian/Documents/php-workspace/thirdparty/thinkshop/ThinkPHP/Library/Think/Model.class.php",
+				"/D/lujian/Documents/php-workspace/thirdparty/thinkshop/Application/Admin/Controller/GoodsController.class.php",
+				"/D/lujian/Documents/php-workspace/thirdparty/thinkshop/Application/index.html",
+				"/D/lujian/Documents/php-workspace/thirdparty/thinkshop/Application/Admin/index.html",
+				"/D/lujian/Documents/php-workspace/thirdparty/thinkshop/Application/Admin/View/index.html",
+				"/D/lujian/Documents/php-workspace/thirdparty/thinkshop/Application/Admin/View/UserGroup/add_edit.html",
+				"/D/lujian/Documents/php-workspace/sql-learning/vendor/autoload.php",
+				"/D/lujian/Documents/php-workspace/thirdparty/Fixhub/vendor/composer/autoload_real.php",
+				"/D/lujian/Documents/php-workspace/thirdparty/Fixhub/README.md",
+				"/D/lujian/Documents/php-workspace/thirdparty/sqli-labs/sql-connections/db-creds.inc",
+				"/D/lujian/Documents/php-workspace/sql-learning/composer.json",
+				"/D/lujian/Documents/php-workspace/thirdparty/Fixhub/bootstrap/autoload.php",
+				"/D/lujian/Documents/php-workspace/thirdparty/Fixhub/vendor/composer/autoload_psr4.php",
+				"/D/lujian/Documents/php-workspace/thirdparty/Fixhub/vendor/composer/installed.json",
+				"/D/lujian/Documents/php-workspace/thirdparty/Fixhub/vendor/composer/include_paths.php",
+				"/D/lujian/Documents/php-workspace/thirdparty/Fixhub/vendor/composer/autoload_files.php",
+				"/D/lujian/Documents/php-workspace/thirdparty/Fixhub/vendor/symfony/polyfill-mbstring/bootstrap.php",
+				"/D/lujian/Applications/php-5.5.38-Win32-VC11-x86/php.ini-development",
+				"/E/SDMOBARefactor/Assets/Shaders/xf_heat_distortion.shader",
+				"/E/SDMOBARefactor/Assets/Shaders/Terrain3Layer.shader",
+				"/E/SDMOBARefactor/Assets/Shaders/RimLight.shader",
+				"/D/lujian/Documents/php-workspace/php-webim/README.md",
+				"/C/Users/lujian/AppData/Roaming/Sublime Text 3/Packages/MarkdownEditing/Bold and Italic Markers.tmPreferences",
+				"/C/Users/lujian/AppData/Roaming/Sublime Text 3/Packages/MarkdownEditing/Markdown.sublime-settings",
+				"/C/Users/lujian/AppData/Roaming/Sublime Text 3/Packages/Terminal/Terminal.sublime-settings",
+				"/D/lujian/Documents/cpp-workspace/thirdparty/tfs/src/common/base_main.cpp",
+				"/D/lujian/Documents/cpp-workspace/docgen/main.cpp",
+				"/D/lujian/Documents/cpp-workspace/thirdparty/tfs/src/common/cdefine.h",
+				"/D/lujian/Documents/cpp-workspace/test.lua",
+				"/D/lujian/Documents/cpp-workspace/thirdparty/tfs/src/dataserver/bit_map.cpp",
+				"/D/lujian/Documents/cpp-workspace/thirdparty/tfs/src/common/meta_server_define.cpp",
+				"/C/Users/lujian/AppData/Roaming/Sublime Text 3/Packages/CTags/Default.sublime-keymap",
+				"/D/lujian/Documents/cpp-workspace/thirdparty/tfs/src/common/base_main.h",
+				"/D/lujian/Documents/cpp-workspace/docgen/file_system/file.h",
+				"/C/Users/lujian/AppData/Roaming/Sublime Text 3/Packages/CTags/CTags.sublime-settings",
+				"/D/lujian/Documents/Lu-Kye.github.io/blogs/windows/problems.md",
+				"/C/Users/lujian/AppData/Roaming/Sublime Text 3/Packages/User/CPP.sublime-build",
+				"/D/lujian/Applications/php-5.6.25/INSTALL",
+				"/D/lujian/Applications/php-5.6.25/README.md",
+				"/C/Users/lujian/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+				"/C/Users/lujian/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings"
+			],
+			"find":
+			{
+				"height": 26.0
+			},
+			"find_in_files":
+			{
+				"height": 93.0,
+				"where_history":
+				[
+					"D:\\lujian\\Documents\\java-workspace\\thirdparties\\java-design-patterns\\abstract-document\\src\\test\\java\\com\\iluwatar\\abstractdocument",
+					"D:\\lujian\\Documents\\java-workspace\\thirdparties\\spring-framework",
+					"E:\\SDMOBARefactor\\ClientSolution\\Lockstep\\Code\\BehaviorTree",
+					"E:\\SDMOBARefactor\\ClientSolution\\Lockstep\\Code",
+					"E:\\SDMOBARefactor\\ClientSolution\\Lockstep",
+					"E:\\SDMOBARefactor\\Assets\\Scripts",
+					"E:\\SDMOBARefactor\\ClientSolution\\Lockstep\\Code\\Entity",
+					"E:\\SDMOBARefactor\\Assets\\Editor\\BehaviorTreeEditor",
+					"D:\\lujian\\Documents\\java-workspace\\thirdparties\\spring-mvc-showcase",
+					"D:\\lujian\\Documents\\java-workspace\\thirdparties\\spring-mvc-showcase\\src",
+					"D:\\lujian\\Documents\\java-workspace\\thirdparties\\tomcat\\java\\org\\apache\\tomcat",
+					"D:\\lujian\\Documents\\java-workspace\\thirdparties\\tomcat\\java\\org\\apache",
+					"D:\\lujian\\Documents\\java-workspace\\thirdparties\\gradle\\buildSrc\\src\\main",
+					"D:\\lujian\\Documents\\java-workspace\\thirdparties\\spring-mvc-showcase",
+					"D:\\lujian\\Documents\\php-workspace\\thirdparty\\Fixhub\\resources",
+					"D:\\lujian\\Documents\\php-workspace\\thirdparty\\Fixhub\\resources\\assets\\sass\\components",
+					"D:\\lujian\\Documents\\cpp-workspace\\thirdparty\\tfs"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"children",
+					"getComponents()",
+					"Component",
+					"Blackboard",
+					"revaluate",
+					"Target",
+					"_target",
+					"onTakeDamage",
+					"WriteValue",
+					"commandManager",
+					"TreeViewCommandManager",
+					"tab",
+					"Save",
+					"install",
+					"JSP-Serv",
+					"log",
+					"log4j",
+					"main(",
+					"main",
+					"APP_HOME",
+					"idea",
+					"markdown",
+					"apply plugin",
+					"plugin",
+					"samples",
+					"hideMode",
+					"loadClass",
+					"includeFile",
+					"include",
+					"require",
+					"col-md-8",
+					"EXIT_SUCCESS",
+					"UNAME_S"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "D:\\lujian\\Documents\\Lu-Kye.github.io\\blogs"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 1,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/D/lujian/Documents/Lu-Kye.github.io/blogs/tasks/project_tasks.md",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 156,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										156,
+										156
+									]
+								],
+								"settings":
+								{
+									"origin_encoding": "ASCII",
+									"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/D/lujian/Documents/Lu-Kye.github.io/blogs/tasks/reading_tasks.md",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 368,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										276,
+										276
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 26.0
+			},
+			"input":
+			{
+				"height": 35.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 124.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "Packages/User/CPP.sublime-build",
+			"position": "0,2,3,-1,-1,-1,-1,738,200,200,856",
+			"project": "",
+			"replace":
+			{
+				"height": 48.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"aistate",
+						"ClientSolution\\Lockstep\\Code\\StateMachine\\AIStateMachine.cs"
+					],
+					[
+						"entry",
+						"ClientSolution\\Lockstep\\Code\\BehaviorTree\\Decorator\\Entry.cs"
+					],
+					[
+						"behaviortree",
+						"ClientSolution\\Lockstep\\Code\\BehaviorTree\\BehaviorTree.cs"
+					],
+					[
+						"betree",
+						"ClientSolution\\Lockstep\\Code\\BehaviorTree\\BehaviorTree.cs"
+					],
+					[
+						"blackbo",
+						"ClientSolution\\Lockstep\\Code\\BehaviorTree\\Blackboard.cs"
+					],
+					[
+						"beblack",
+						"Assets\\Editor\\BehaviorTreeEditor\\BehaviorTreeEditorBlackboardArea.cs"
+					],
+					[
+						"",
+						"Assets\\Editor\\BehaviorTreeEditor\\BehaviorTreeEditorFieldArea.cs"
+					],
+					[
+						"blackboard",
+						"Assets\\Editor\\BehaviorTreeEditor\\BehaviorTreeEditorBlackboardArea.cs"
+					],
+					[
+						"numguess",
+						"tomcat\\webapps\\examples\\jsp\\num\\numguess.jsp"
+					],
+					[
+						"modulelibrary",
+						"gradle\\subprojects\\ide\\src\\main\\groovy\\org\\gradle\\plugins\\ide\\idea\\model\\ModuleLibrary.java"
+					],
+					[
+						"colli",
+						"Scripts\\XPhysics\\BoundsCollider.cs"
+					],
+					[
+						"grayscalee",
+						"ThirdParts\\Standard Assets\\Effects\\ImageEffects\\Shaders\\GrayscaleEffect.shader"
+					],
+					[
+						"gray",
+						"ThirdParts\\Standard Assets\\Effects\\ImageEffects\\Scripts\\Grayscale.cs"
+					],
+					[
+						"greyscale",
+						"ThirdParts\\Standard Assets\\Effects\\ImageEffects\\Scripts\\Grayscale.cs"
+					],
+					[
+						"imageeffectbase",
+						"ThirdParts\\Standard Assets\\Effects\\ImageEffects\\Scripts\\ImageEffectBase.cs"
+					],
+					[
+						"graysc",
+						"ThirdParts\\Standard Assets\\Effects\\ImageEffects\\Scripts\\Grayscale.cs"
+					],
+					[
+						"runesp",
+						"Scripts\\Lockstep\\RuneSpawner.cs"
+					],
+					[
+						"runecon",
+						"Scripts\\Controller\\RuneController.cs"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 459.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 50,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}
