@@ -1,14 +1,16 @@
 {
-    "files.exclude": {
-    "**/**.meta": true,
-    "**/.git": true,
-    "**/.svn": true,
-    "**/.hg": true,
-    "**/.DS_Store": true
+    "files.exclude": 
+    {
+        "**/**.meta": true,
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/.DS_Store": true
     },
 
-    "editor.wordWrap": true,
-    "vim.useSystemClipboard": true,
     "workbench.activityBar.visible": true,
-    "workbench.statusBar.visible": true
+    "workbench.statusBar.visible": true,
+    "window.zoomLevel": 0,
+    "vim.useSystemClipboard": true,
+    "vim.disableAnnoyingNeovimMessage": true
 }
