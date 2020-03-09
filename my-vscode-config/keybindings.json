@@ -1,8 +1,7 @@
 [
     // View
-    { "key": "shift+ctrl+g", "command": "workbench.view.git" },
     { "key": "shift+ctrl+t", "command": "workbench.action.terminal.toggleTerminal" },
-    { "key": "ctrl+shift+h",                 "command": "workbench.action.togglePanel" },
+    { "key": "ctrl+shift+h", "command": "workbench.action.togglePanel" },
 
     // Editor
     { "key": "shift+ctrl+1", "command": "workbench.action.focusFirstEditorGroup" },
@@ -11,6 +10,9 @@
 
     { "key": "ctrl+k", "command": "workbench.action.nextEditor" },
     { "key": "ctrl+j", "command": "workbench.action.previousEditor" },
+    { "key": "ctrl+f", "command": "actions.find" },
+    { "key": "ctrl+shift+f", "command": "workbench.action.findInFiles" },
+    { "key": "ctrl+shift+w", "command": "workbench.action.closeActiveEditor" },
 
     { "key": "ctrl+1", "command": "workbench.action.openEditorAtIndex1" },
     { "key": "ctrl+2", "command": "workbench.action.openEditorAtIndex2" },
